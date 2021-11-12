@@ -89,6 +89,9 @@ hr {
     float: left;
     width: 45%;
 }
+.edu-template-left p,a{
+    text-decoration: none;
+}
 
 .edu-template-right {
     float: right;
